@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chairmanjoe/DRM-Trade#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
     "truffle": "^5.1.53"
   }
 }
