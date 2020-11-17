@@ -1,0 +1,22 @@
+{
+  "name": "drm-trade",
+  "version": "1.0.0",
+  "description": "Tool for trading DRM cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chairmanjoe/DRM-Trade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chairmanjoe/DRM-Trade/issues"
+  },
+  "homepage": "https://github.com/chairmanjoe/DRM-Trade#readme",
+  "dependencies": {
+    "truffle": "^5.1.53"
+  }
+}
